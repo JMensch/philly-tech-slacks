@@ -15,3 +15,8 @@ A list of tech related Slack teams in the Philadelphia area
 =============
 [Request an invite.](https://phillycocoa-slackin.herokuapp.com/)<br>
 "PhillyCocoa is a Philadelphia area Mac and iPhone programming group, a chapter of the worldwide CocoaHeads."
+
+[PHLDesign Co](http://phldesign.co/)
+==============
+[Request an invite.](http://slack.phldesign.co/)
+"A resource for designers and developers to stay connected, learn about upcoming events and find prospective career opportunities."
